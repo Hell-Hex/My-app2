@@ -1,0 +1,8 @@
+{
+  "name": "OmniCommerce Architect",
+  "description": "A high-end hybrid website builder and ecommerce automation platform featuring assisted dropshipping, risk management, and integrated AI orchestration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
